@@ -1,6 +1,6 @@
 # 🧠 E-Commerce WebApp API (MERN Backend)
 
-This is the **Backend API** for the [E-Commerce WebApp Frontend](https://github.com/pratham-jdn/E_Commerce_WebApp_Frontend), built using **Node.js**, **Express**, **MongoDB**, and **Razorpay** for payment processing.
+This is the **Backend API** for the [E-Commerce WebApp], built using **Node.js**, **Express**, **MongoDB**, and **Razorpay** for payment processing.
 
 It provides **secure REST APIs** with **JWT-based authentication**, **role-based authorization (Admin/User)**, product management, orders, and payment verification.
 
